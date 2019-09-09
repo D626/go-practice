@@ -26,6 +26,6 @@ func main(){
 	if count>0{
 		fmt.Println("修改成功")
 	}else{
-		fmt.Println("修改失败")
+		fmt.Println("操作失败")
 	}
 }
