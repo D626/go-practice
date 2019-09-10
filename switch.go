@@ -37,7 +37,7 @@ func main() {
 
 
 	*/
-	//switchzhong case支持多值用，分开
+	//switch中 case支持多值用，分开
     month:=5
     switch month{
 	case 1,3,5,7,8,10,12:
