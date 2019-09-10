@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-//事件类型代表现实世界时间
+//时间类型代表现实世界时间
 func main() {
 	var t time.Time
 	t=time.Now()
